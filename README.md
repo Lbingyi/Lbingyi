@@ -15,9 +15,9 @@
   <a href="https://github.com/qier222?tab=repositories"><img src="./images/my-repos.png" width=48% alt="查看我的仓库"></a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Lbingyi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lbingyi&show_icons=true&theme=vision-friendly-dark&locale=cn" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Lbingyi/XrayHeroku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lbingyi&repo=XrayHeroku&locale=cn&theme=vision-friendly-dark" />
 </a>
