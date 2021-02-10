@@ -2,7 +2,7 @@
   <a href="#"><img src="./images/hi.png" alt="显示不了图片，开一下VPN吧🛫"></a>
 </p>
 
-### My Works
+### 💬 My Works
 
 <p>
   <a href="https://github.com/qier222/YesPlayMusic"><img src="./images/yesplaymusic.png" width=48% alt="YesPlayMusic - 高颜值的第三方网易云客户端"></a>
@@ -18,11 +18,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lbingyi&show_icons=true&theme=vision-friendly-dark&locale=cn" />
 </a>
 <a href="https://github.com/Lbingyi/XrayHeroku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lbingyi&repo=XrayHeroku" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lbingyi&repo=XrayHeroku&locale=cn&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/Lbingyi/Xray-Heroku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lbingyi&repo=Xray-Heroku" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lbingyi&repo=Xray-Heroku&locale=cn&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/Lbingyi/Lbingyi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lbingyi&repo=Lbingyi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lbingyi&repo=Lbingyi&locale=cn&theme=vision-friendly-dark" />
 </a>
