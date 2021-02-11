@@ -5,24 +5,10 @@
 ### 💬 My Works
 
 <p>
-  <a href="https://github.com/qier222/YesPlayMusic"><img src="./images/yesplaymusic.png" width=48% alt="YesPlayMusic - 高颜值的第三方网易云客户端"></a>
+  <a href="https://github.com/Lbingyi/HerokuXray"><img src="./images/HerokuXray.png" width=48% alt="YesPlayMusic - 使用Heroku部署Xray高性能代理服务，通过ws传输的 (vmess、vless、trojan shadowsocks、socks)等协议"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/qier222/natianya-mini-program-preview"><img src="./images/natianya.png" width=48% alt="那天鸭 - 倒数日微信小程序"></a>
+  <a href="https://github.com/Lbingyi/Heroku-Xray"><img src="./images/Heroku-Xray.png" width=48% alt="使用Heroku部署Xray高性能代理服务，通过ws传输的 (vless)协议"></a>
 </p>
-<p>
-  <a href="https://github.com/qier222/currency-app"><img src="./images/currency-app.png" width=48% alt="CurrencyApp - 汇率换算工具"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/qier222?tab=repositories"><img src="./images/my-repos.png" width=48% alt="查看我的仓库"></a>
-</p>
-<a href="https://github.com/Lbingyi/Xray-Heroku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lbingyi&repo=Heroku-Xray&locale=cn&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/Lbingyi/XrayHeroku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lbingyi&repo=HerokuXray&locale=cn&theme=vision-friendly-dark" />
-</a>
 <a href="https://github.com/Lbingyi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lbingyi&show_icons=true&theme=vision-friendly-dark&locale=cn" />
-</a>
-<a href="https://github.com/Lbingyi/Lbingyi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lbingyi&repo=Lbingyi&locale=cn&theme=vision-friendly-dark" />
 </a>
