@@ -10,5 +10,5 @@
   <a href="https://github.com/Lbingyi/Heroku-Xray"><img src="./images/Heroku-Xray.png" width=48% alt="使用Heroku部署Xray高性能代理服务，通过ws传输的 (vless)协议"></a>
 </p>
 <a href="https://github.com/Lbingyi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lbingyi&show_icons=true&theme=vision-friendly-dark&locale=cn" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Lbingyi&show_icons=true&icon_color=0366d6&text_color=718096&bg_color=ffffff&hide_title=true&locale=cn" />
 </a>
