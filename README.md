@@ -12,6 +12,3 @@
 <a href="https://github.com/Lbingyi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lbingyi&show_icons=true&theme=vision-friendly-dark&locale=cn" />
 </a>
-×
-拖拽到此处
-图片将完成下载
